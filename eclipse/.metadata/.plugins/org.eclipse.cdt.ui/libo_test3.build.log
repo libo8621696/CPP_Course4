@@ -1,0 +1,6 @@
+22:04:00 **** Incremental Build of configuration Debug for project libo_test3 ****
+make all 
+make: Nothing to be done for `all'.
+
+22:04:00 Build Finished. 0 errors, 0 warnings. (took 71ms)
+

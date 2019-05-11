@@ -1,0 +1,99 @@
+14:55:10 **** Build of configuration Debug for project libo_test1 ****
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.o" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: libo_test1
+Invoking: MacOS X C++ Linker
+g++  -o "libo_test1"  ./main.o   
+Finished building target: libo_test1
+ 
+14:55:25 **** Incremental Build of configuration Debug for project libo_test1 ****
+make all 
+make: Nothing to be done for `all'.
+14:55:37 **** Incremental Build of configuration Debug for project libo_test1 ****
+make all 
+make: Nothing to be done for `all'.
+14:56:13 **** Incremental Build of configuration Debug for project libo_test1 ****
+make all 
+make: Nothing to be done for `all'.
+14:56:29 **** Incremental Build of configuration Debug for project libo_test1 ****
+make all 
+make: Nothing to be done for `all'.
+14:56:35 **** Incremental Build of configuration Debug for project libo_test1 ****
+make all 
+make: Nothing to be done for `all'.
+15:09:11 **** Incremental Build of configuration Debug for project libo_test1 ****
+make all 
+Building file: ../main.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.o" -o "main.o" "../main.cpp"
+Finished building: ../main.cpp
+ 
+Building target: libo_test1
+Invoking: MacOS X C++ Linker
+g++  -o "libo_test1"  ./main.o   
+Finished building target: libo_test1
+ 
+15:09:14 **** Incremental Build of configuration Debug for project libo_test1 ****
+make all 
+make: Nothing to be done for `all'.
+15:16:04 **** Incremental Build of configuration Debug for project libo_test1 ****
+make all 
+make: Nothing to be done for `all'.
+15:16:07 **** Incremental Build of configuration Debug for project libo_test1 ****
+make all 
+make: Nothing to be done for `all'.
+15:23:29 **** Incremental Build of configuration Debug for project libo_test1 ****
+make all 
+make: Nothing to be done for `all'.
+22:01:28 **** Build of configuration Debug for project libo_test3 ****
+make all 
+Building file: ../main1.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main1.d" -MT"main1.o" -o "main1.o" "../main1.cpp"
+Finished building: ../main1.cpp
+ 
+Building target: libo_test3
+Invoking: MacOS X C++ Linker
+g++  -o "libo_test3"  ./main1.o   
+Finished building target: libo_test3
+ 
+22:01:38 **** Incremental Build of configuration Debug for project libo_test3 ****
+make all 
+make: Nothing to be done for `all'.
+22:01:45 **** Incremental Build of configuration Debug for project libo_test3 ****
+make all 
+make: Nothing to be done for `all'.
+22:01:49 **** Incremental Build of configuration Debug for project libo_test3 ****
+make all 
+make: Nothing to be done for `all'.
+22:01:54 **** Incremental Build of configuration Debug for project libo_test3 ****
+make all 
+make: Nothing to be done for `all'.
+22:01:58 **** Incremental Build of configuration Debug for project libo_test3 ****
+make all 
+make: Nothing to be done for `all'.
+22:02:00 **** Incremental Build of configuration Debug for project libo_test3 ****
+make all 
+make: Nothing to be done for `all'.
+22:02:20 **** Incremental Build of configuration Debug for project libo_test3 ****
+make all 
+make: Nothing to be done for `all'.
+22:02:25 **** Incremental Build of configuration Debug for project libo_test3 ****
+make all 
+make: Nothing to be done for `all'.
+22:02:34 **** Incremental Build of configuration Debug for project libo_test3 ****
+make all 
+make: Nothing to be done for `all'.
+22:02:35 **** Incremental Build of configuration Debug for project libo_test3 ****
+make all 
+make: Nothing to be done for `all'.
+22:03:55 **** Incremental Build of configuration Debug for project libo_test3 ****
+make all 
+make: Nothing to be done for `all'.
+22:04:00 **** Incremental Build of configuration Debug for project libo_test3 ****
+make all 
+make: Nothing to be done for `all'.

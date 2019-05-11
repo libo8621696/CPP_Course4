@@ -1,0 +1,16 @@
+/*
+ * main.cpp
+ *
+ *  Created on: Feb 10, 2019
+ *      Author: libo
+ */
+
+#include<iostreamm>
+using namespace std;
+
+int main(){
+	cout<< "hello world!"<<endl;
+	return 0;s
+}
+
+
